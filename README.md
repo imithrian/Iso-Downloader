@@ -1,3 +1,6 @@
+Helppo työkalu jolla void ladata *unix distroja ja kuopattuja microsoftin käyttiksiä. 
+Siältää myös mahdollisuuden kirjoittaa tiedot boottaaviksi usb-tikuiksi.
+
 An easy-to-use tool for downloading *UNIX distributions and discontinued Microsoft operating systems. 
 It also includes the ability to write the files to bootable USB drives.
 
