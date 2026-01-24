@@ -1,7 +1,7 @@
 {
-  "AlmaLinux 10": {
+  "AlmaLinux 9.4": {
     "category": "RHEL",
-    "url": "https://repo.almalinux.org/almalinux/10/isos/x86_64/AlmaLinux-10.0-x86_64-dvd.iso",
+    "url": "https://repo.almalinux.org/almalinux/9.4/isos/x86_64/AlmaLinux-9.4-x86_64-dvd.iso",
     "homepage": "https://almalinux.org"
   },
   "Alpine Linux 3.20": {
@@ -56,7 +56,7 @@
   },
   "BlackArch Linux": {
     "category": "Security",
-    "url": "https://ftp.halifax.rwth-aachen.de/blackarch/iso/blackarch-linux-full-2023.04.01-x86_64.iso",
+    "url": "https://ftp.halifax.rwth-aachen.de/blackarch/iso/blackarch-linux-full-2024.12.01-x86_64.iso",
     "homepage": "https://blackarch.org"
   },
   "BunsenLabs Linux": {
@@ -69,9 +69,9 @@
     "url": "https://mirror.calculate-linux.org/release/20251026/cld-20251026-x86_64.iso",
     "homepage": "https://www.calculate-linux.org"
   },
-  "CentOS Stream 10": {
+  "CentOS Stream 9": {
     "category": "RHEL",
-    "url": "https://mirror.veesp.com/centos-stream/10-stream/BaseOS/x86_64/iso/CentOS-Stream-10-latest-x86_64-dvd1.iso",
+    "url": "https://mirror.veesp.com/centos-stream/9-stream/BaseOS/x86_64/iso/CentOS-Stream-9-latest-x86_64-dvd1.iso",
     "homepage": "https://www.centos.org/centos-stream/"
   },
   "ChimeraOS (Gaming Console)": {
@@ -134,7 +134,7 @@
     "url": "https://download.fedoraproject.org/pub/fedora/linux/releases/41/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-41-1.4.iso",
     "homepage": "https://getfedora.org"
   },
-  "FreeBSD 14.1": {
+  "FreeBSD 14.3": {
     "category": "BSD",
     "url": "https://download.freebsd.org/releases/amd64/amd64/ISO-IMAGES/14.3/FreeBSD-14.3-RELEASE-amd64-dvd1.iso",
     "homepage": "https://www.freebsd.org"
@@ -154,7 +154,7 @@
     "url": "https://distfiles.gentoo.org/releases/amd64/autobuilds/20251026T170339Z/install-amd64-minimal-20251026T170339Z.iso",
     "homepage": "https://gentoo.org"
   },
-  "GhostBSD 24.01": {
+  "GhostBSD 25.02": {
     "category": "BSD",
     "url": "https://download.fr.ghostbsd.org/releases/amd64/25.02-R14.3p2/GhostBSD-25.02-R14.3p2.iso",
     "homepage": "https://www.ghostbsd.org"
@@ -169,7 +169,7 @@
     "url": "https://cdimage.kali.org/kali-2025.3/kali-linux-2025.3-installer-amd64.iso",
     "homepage": "https://www.kali.org"
   },
-  "KaOS 2024.07": {
+  "KaOS 2025.09": {
     "category": "Independent",
     "url": "https://deac-riga.dl.sourceforge.net/project/kaosx/ISO/KaOS-2025.09-x86_64.iso?viasf=1",
     "homepage": "https://kaosx.us"
@@ -189,7 +189,7 @@
     "url": "https://le.builds.lakka.tv/Generic.x86_64/Lakka-Generic.x86_64-5.0.img.gz",
     "homepage": "https://lakka.tv"
   },
-  "Linux Lite 7.0": {
+  "Linux Lite 7.6": {
     "category": "Lightweight",
     "url": "https://ftpmirror1.infania.net/linuxlite/isos/7.6/linux-lite-7.6-64bit.iso",
     "homepage": "https://www.linuxliteos.com"
@@ -219,12 +219,12 @@
     "url": "https://altushost-swe.dl.sourceforge.net/project/makulu/downloads/LinDoz/MakuluLinux-LinDoz-U-2025-10-25.iso?viasf=1",
     "homepage": "https://www.makululinux.com"
   },
-  "Manjaro XFCE 24.0": {
+  "Manjaro XFCE 25.0": {
     "category": "Arch",
     "url": "https://download.manjaro.org/xfce/25.0.10/manjaro-xfce-25.0.10-251013-linux612.iso",
     "homepage": "https://manjaro.org"
   },
-  "MX Linux 23.2 Xfce": {
+  "MX Linux 23.6 Xfce": {
     "category": "Debian",
     "url": "https://mxlinux.c3sl.ufpr.br/mx-linux/MX/Final/Xfce/MX-23.6_x64.iso",
     "homepage": "https://mxlinux.org"
@@ -266,15 +266,15 @@
   },
   "Parabola GNU/Linux": {
     "category": "Arch",
-    "url": "https://redirector.parabola.nu/iso/x86_64-systemd-cli-2022.04/parabola-x86_64-systemd-cli-2022.04-netinstall.iso",
+    "url": "https://repo.parabola.nu/iso/parabola-2025.07.27-x86_64.iso",
     "homepage": "https://parabola.nu"
   },
-  "Pardus 23.2": {
+  "Pardus 23.4": {
     "category": "Debian",
     "url": "https://indir.pardus.org.tr/ISO/Pardus23/Pardus-23.4-GNOME-amd64.iso",
     "homepage": "https://www.pardus.org.tr"
   },
-  "Parrot Security OS 6.0": {
+  "Parrot Security OS 6.4": {
     "category": "Security",
     "url": "https://deb.parrot.sh/parrot/iso/6.4/Parrot-home-6.4_amd64.iso",
     "homepage": "https://parrotsec.org"
@@ -289,37 +289,37 @@
     "url": "https://mirror.ossplanet.net/peppermint/iso/XFCE/PeppermintOS-devuan_64_xfce.iso",
     "homepage": "https://peppermintos.com"
   },
-  "Pisi Linux 2.3": {
+  "Pisi Linux 2.4.2": {
     "category": "Independent",
     "url": "https://iso.pisilinux.org/kde/Pisi-Linux-2.4.2-KDE6-x86_64.iso",
     "homepage": "https://pisilinux.org"
   },
-  "Pop!_OS 24.04.3 (Intel/AMD)": {
+  "Pop!_OS 22.04 LTS": {
     "category": "Ubuntu",
     "url": "https://iso.pop-os.org/22.04/amd64/intel/58/pop-os_22.04_amd64_intel_58.iso",
     "homepage": "https://pop.system76.com"
   },
-  "Puppy Linux (BionicPup)": {
+  "Puppy Linux (BookwormPup64)": {
     "category": "Lightweight",
     "url": "https://distro.ibiblio.org/puppylinux/puppy-bookwormpup/BookwormPup64/10.0.12/BookwormPup64_10.0.12.iso",
     "homepage": "http://puppylinux.com"
   },
-  "PureOS 10": {
+  "PureOS 10.3": {
     "category": "Privacy",
     "url": "https://downloads.puri.sm/byzantium/gnome/2023-06-14/pureos-10.3-gnome-live-20230614_amd64.iso",
     "homepage": "https://pureos.net"
   },
-  "Q4OS 5": {
+  "Q4OS 6.2": {
     "category": "Lightweight",
     "url": "https://deac-ams.dl.sourceforge.net/project/q4os/stable/q4os-6.2-x64.r1.iso?viasf=1",
     "homepage": "https://q4os.org"
   },
-  "Qubes OS 4.2": {
+  "Qubes OS 4.2.0": {
     "category": "Security",
     "url": "https://mirrors.edge.kernel.org/qubes/iso/Qubes-R4.2.0-x86_64.iso",
     "homepage": "https://www.qubes-os.org"
   },
-  "Raspberry Pi OS x86 (Desktop)": {
+  "Raspberry Pi OS (Desktop)": {
     "category": "Raspberry Pi",
     "url": "https://downloads.raspberrypi.com/raspios_full_arm64/images/raspios_full_arm64-2025-10-02/2025-10-01-raspios-trixie-arm64-full.img.xz",
     "homepage": "https://www.raspberrypi.com/software/operating-systems/"
@@ -329,34 +329,29 @@
     "url": "https://de-nue.soulharsh007.dev/rebornos/ISOs/rebornos_iso-2025.07.09-x86_64.iso",
     "homepage": "https://rebornos.org"
   },
-  "Redcore Linux": {
+  "Redcore Linux 2402": {
     "category": "Gentoo",
     "url": "https://mirror.alpix.eu/redcorelinux/amd64/iso/Redcore.Linux.Hardened.2402.Unukalhai.KDE.amd64.iso",
     "homepage": "https://redcorelinux.org"
   },
-  "Rescuezilla 3.1": {
+  "Rescuezilla 2.6.1": {
     "category": "Rescue",
     "url": "https://github.com/rescuezilla/rescuezilla/releases/download/2.6.1/rescuezilla-2.6.1-64bit.oracular.iso",
     "homepage": "https://rescuezilla.com"
   },
   "Rocky Linux 9.4": {
     "category": "RHEL",
-    "url": "https://download.rockylinux.org/pub/rocky/10/isos/x86_64/Rocky-10.0-x86_64-dvd1.iso",
+    "url": "https://download.rockylinux.org/pub/rocky/9.4/isos/x86_64/Rocky-9.4-x86_64-dvd1.iso",
     "homepage": "https://rockylinux.org"
-  },
-  "Scientific Linux 7.9": {
-    "category": "RHEL",
-    "url": "http://ftp.scientificlinux.org/linux/scientific/obsolete/7.9/x86_64/iso/SL-7-DVD-x86_64.iso",
-    "homepage": "https://scientificlinux.org"
   },
   "Slackware 15.0": {
     "category": "Classic",
     "url": "https://ftp.acc.umu.se/mirror/slackware.com/slackware-iso/slackware64-15.0-iso/slackware64-15.0-install-dvd.iso",
     "homepage": "https://www.slackware.com"
   },
-  "Solus 4.4 (Budgie)": {
+  "Solus 4.5": {
     "category": "Independent",
-    "url": "https://cdn.getsol.us/release/Solus-4.4-Budgie.iso",
+    "url": "https://cdn.getsol.us/release/Solus-4.5-Budgie.iso",
     "homepage": "https://getsol.us"
   },
   "SolydXK 12": {
@@ -364,9 +359,8 @@
     "url": "https://ftpmirror.infania.net/mirror/solydxk/downloads/solydk_12_64_202312.iso",
     "homepage": "https://solydxk.com"
   },
-  "SparkyLinux": {
+  "SparkyLinux 8.0": {
     "category": "Lightweight",
-	
     "url": "https://deac-riga.dl.sourceforge.net/project/sparkylinux/kde/sparkylinux-8.0.1-x86_64-kde.iso?viasf=1",
     "homepage": "https://sparkylinux.org"
   },
@@ -375,27 +369,27 @@
     "url": "https://fastly-cdn.system-rescue.org/releases/12.02/systemrescue-12.02-amd64.iso",
     "homepage": "https://www.system-rescue.org"
   },
-  "T2 SDE": {
+  "T2 SDE 25.10": {
     "category": "Independent",
     "url": "https://dl.t2sde.org/binary/2025/t2-25.10-x86-64-base-wayland-glibc-clang-nocona.iso",
     "homepage": "https://t2sde.org"
   },
-  "Tails 6.x": {
+  "Tails 7.1": {
     "category": "Security",
     "url": "https://download.tails.net/tails/stable/tails-amd64-7.1/tails-amd64-7.1.iso",
     "homepage": "https://tails.net"
   },
-  "Tiny Core 14": {
+  "Tiny Core 16": {
     "category": "Lightweight",
     "url": "http://tinycorelinux.net/16.x/x86/release/CorePlus-current.iso",
     "homepage": "http://tinycorelinux.net"
   },
-  "Trisquel 11.0": {
+  "Trisquel 11.0.1": {
     "category": "Ubuntu",
     "url": "https://mirror.math.princeton.edu/pub/trisquel-iso/trisquel_11.0.1_amd64.iso",
     "homepage": "https://trisquel.info"
   },
-  "TUXEDO OS 3": {
+  "TUXEDO OS 2025.10": {
     "category": "Ubuntu",
     "url": "https://os.tuxedocomputers.com/TUXEDO-OS-202510131615.iso",
     "homepage": "https://os.tuxedocomputers.com"
@@ -410,12 +404,12 @@
     "url": "https://cdimage.ubuntu.com/daily-live/current/resolute-desktop-amd64.iso",
     "homepage": "https://cdimage.ubuntu.com/daily-live/"
   },
-  "Ubuntu Budgie 25.10": {
+  "Ubuntu Budgie 24.04.3": {
     "category": "Ubuntu",
     "url": "https://cdimages.ubuntu.com/ubuntu-budgie/releases/24.04.3/release/ubuntu-budgie-24.04.3-desktop-amd64.iso",
     "homepage": "https://ubuntubudgie.org"
   },
-  "Ubuntu MATE 24.04.3 LTS": {
+  "Ubuntu MATE 25.10": {
     "category": "Ubuntu",
     "url": "https://cdimage.ubuntu.com/ubuntu-mate/releases/25.10/release/ubuntu-mate-25.10-desktop-amd64.iso",
     "homepage": "https://ubuntu-mate.org"
@@ -430,7 +424,7 @@
     "url": "https://cdimage.ubuntu.com/ubuntustudio/releases/24.04.3/release/ubuntustudio-24.04.3-dvd-amd64.iso",
     "homepage": "https://ubuntustudio.org"
   },
-  "Ultramarine Linux (Gamer Edition)": {
+  "Ultramarine Linux 42": {
     "category": "Gamer",
     "url": "https://ultramarine-linux.org/fyra-images/isos/ultramarine/42/ultramarine-flagship-42-live-anaconda-x86_64.iso",
     "homepage": "https://ultramarine-linux.org"
@@ -440,7 +434,7 @@
     "url": "https://repo-default.voidlinux.org/live/current/void-live-x86_64-20250202-base.iso",
     "homepage": "https://voidlinux.org"
   },
-  "Whonix": {
+  "Whonix 17.4.4.6": {
     "category": "Security",
     "url": "https://www.whonix.org/download/ova/17.4.4.6/Whonix-Xfce-17.4.4.6.Intel_AMD64.ova",
     "homepage": "https://whonix.org"
@@ -455,79 +449,89 @@
     "url": "https://mirror.kumi.systems/zorinos/18/Zorin-OS-18-Core-64-bit.iso",
     "homepage": "https://zorinos.com"
   },
-  "Zorin OS 17 Lite": {
+  "Zorin OS 17.3 Lite": {
     "category": "Ubuntu",
     "url": "https://mirror.kumi.systems/zorinos/17/Zorin-OS-17.3-Lite-64-bit-r2.iso",
     "homepage": "https://zorinos.com"
   },
   "Windows 1.0": {
     "category": "Microsoft",
-    "url": "https://dl-alt1.winworldpc.com/Microsoft%20Windows%201.01%20(5.25).7z",
+    "url": "https://archive.org/download/windows-1.0-iso/Win1.0.iso",
     "homepage": "https://microsoft.com"
   },
   "Windows 2.0": {
     "category": "Microsoft",
-    "url": "https://dl-alt1.winworldpc.com/Microsoft%20Windows%202.03%20386%20(3.5).7z",
+    "url": "https://archive.org/download/windows-2.0-iso_202506/windows%202.0%20iso.iso",
     "homepage": "https://microsoft.com"
   },
   "Windows 3.0": {
     "category": "Microsoft",
-    "url": "https://dl-alt1.winworldpc.com/Microsoft%20Windows%203.0%20(5.25%201.2MB).7z",
+    "url": "https://archive.org/download/microsoft-windows-3.0-3.5-720-k.-7z/WIN3MME.ISO",
     "homepage": "https://microsoft.com"
   },
-  "Windows 3.1": {
+  "Windows 3.11": {
     "category": "Microsoft",
-    "url": "https://dl-alt1.winworldpc.com/Microsoft%20Windows%203.11%20(Retail%20Full)%20(3.5).7z",
+    "url": "https://archive.org/download/windows-3.11/Windows%203.11.iso",
     "homepage": "https://microsoft.com"
   },
   "Windows NT 3.5.1": {
     "category": "Microsoft",
-    "url": "https://dl-alt1.winworldpc.com/Abandonware%20Operating%20Systems/PC/Microsoft%20Windows/Windows%20NT3/Microsoft%20Windows%20NT%203.51%20Workstation%20(3.51.1057.1.chk).7z",
+    "url": "https://archive.org/download/nt351s/NT_351S.ISO",
     "homepage": "https://microsoft.com"
   },
   "Windows 95": {
     "category": "Microsoft",
-    "url": "https://dn720203.ca.archive.org/0/items/win95_202004/Win95.iso",
+    "url": "https://archive.org/download/win95_202004/Win95.iso",
     "homepage": "https://microsoft.com"
   },
   "Windows 98 SE": {
     "category": "Microsoft",
-    "url": "https://dl-alt1.winworldpc.com/Microsoft%20Windows%2098%20Second%20Edition%20(4.10.2222)%20(Retail%20Full).7z",
+    "url": "https://archive.org/download/windows-98-se_20250630/Windows%2098%20Second%20Edition.iso",
     "homepage": "https://microsoft.com"
   },
   "Windows 2000": {
     "category": "Microsoft",
-    "url": "https://dl-alt1.winworldpc.com/Abandonware%20Operating%20Systems/PC/Microsoft%20Windows/Windows%202000/Microsoft%20Windows%202000%20Professional%20(5.00.2195.6717.sp4).7z",
+    "url": "https://archive.org/download/w-2-pis-en_202506/W2PIS_EN.iso",
     "homepage": "https://microsoft.com"
   },
   "Windows ME": {
     "category": "Microsoft",
-    "url": "https://dl-alt1.winworldpc.com/Microsoft%20Windows%20ME%20(4.90.3000)%20(Retail%20Full).7z",
+    "url": "https://archive.org/download/windows-me_20221127/Windows%20Me.iso",
     "homepage": "https://microsoft.com"
   },
   "Windows XP Pro SP3": {
     "category": "Microsoft",
-    "url": "https://api.isdn.network/api/v1/artifacts/22ec82b9-ada1-4f74-89a2-0430ff5226f3/download",
+    "url": "https://archive.org/download/windows-xp-professional-sp3-iso/WinXP_Pro_SP3_MSDN.iso",
     "homepage": "https://microsoft.com"
   },
   "Windows XP x64": {
     "category": "Microsoft",
-    "url": "https://api.isdn.network/api/v1/artifacts/4dc313d7-1792-4b70-aa56-ae1bd525235b/download",
+    "url": "https://archive.org/download/windows-xp-professional-x64-edition-iso/Windows%20XP%20Professional%20x64%20Edition.iso",
     "homepage": "https://microsoft.com"
   },
   "Windows Vista (64 Bit)": {
     "category": "Microsoft",
-    "url": "https://api.isdn.network/api/v1/artifacts/25cbc2b4-577a-4c69-8a9d-0029463cd801/download",
+    "url": "https://archive.org/download/windows-vista-64bit/WinVista_64bit_SP2_uPDATE.iso",
     "homepage": "https://microsoft.com"
   },
   "Windows 7": {
     "category": "Microsoft",
-    "url": "https://dl.bobpony.com/windows/7/updated/7601.24214.180801-1700.win7sp1_ldr_escrow_CLIENT_PROFESSIONAL_x64FRE_en-us.7z",
+    "url": "https://archive.org/download/Windows7Blac3264_201512/windows%207%20blac%2032%20%20%20%20%2064%20%28%29.iso",
     "homepage": "https://microsoft.com"
   },
   "Windows 8.1": {
     "category": "Microsoft",
-    "url": "https://ia803407.us.archive.org/26/items/win-8.1-english-x-64_202105/Win8.1_English_x64.iso",
+    "url": "https://archive.org/download/win-8.1-english-x-64_202105/Win8.1_English_x64.iso",
+    "homepage": "https://microsoft.com"
+  },
+  "Windows 10": {
+    "category": "Microsoft",
+    "url": "https://archive.org/download/windows-10_20230228/Windows%2010.iso",
+    "homepage": "https://microsoft.com"
+  },
+  "Windows 11": {
+    "category": "Microsoft",
+    "url": "https://archive.org/download/windows-11_20241225/Windows%2011.iso",
     "homepage": "https://microsoft.com"
   },
   "MS-DOS 6.22": {
@@ -537,7 +541,7 @@
   },
   "IBM OS2 Warp 4.0": {
     "category": "Independent",
-    "url": "https://dl-alt1.winworldpc.com/Abandonware%20Operating%20Systems/PC/OS2/IBM%20OS2%20Warp%204.0%20(CD).7z",
+    "url": "https://archive.org/download/ibm-os2-warp-version-4/ibm-os2-warp-version-4.iso",
     "homepage": "https://en.wikipedia.org/wiki/OS/2"
   }
 }
