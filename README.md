@@ -14,3 +14,6 @@ Il inclut également la possibilité d'écrire les fichiers sur des clés USB am
 Также включает возможность записи файлов на загрузочные USB-накопители.
 
 ©Imithrian
+
+
+Updated Distros.json for newest versions
